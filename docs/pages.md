@@ -26,7 +26,7 @@ A simple page component might look like this:
 </template>
 ```
 
-Pages in `src/pages` are typically used for fixed URLs like `/about/` or for listing blog posts at, for example `/blog/`. [Read more about how to create pages for single blog posts etc.](/docs/collections/)
+Pages in `src/pages` are typically used for fixed URLs like `/about/` or for listing blog posts at, for example `/blog/`. [Read more about how to create pages for single blog posts etc.](/docs/templates/)
 
 ## Programmatic pages
 
